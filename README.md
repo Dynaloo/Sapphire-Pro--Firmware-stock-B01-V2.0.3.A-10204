@@ -6,9 +6,10 @@
 
 # How to flash the Sapphire Pro Firmware?
 
-  - Download the Sapphire Plus firmware.
+  - Download the Sapphire Ppro firmware.
   - Format the SD card (maximum 16GB SD Card).
-  - Unzip the archive and copy the contents to the SD Card.
+  - Unzip the archive
+  - Copy the contents to the SD Card.
   - Plug in the SD card into the printer.
   - Turn on the printer and wait for the firmware to finish flashing.
   - Restart the printer.

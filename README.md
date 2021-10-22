@@ -6,7 +6,7 @@
 
 # How to flash the Sapphire Pro Firmware?
 
-  - Download the Sapphire Ppro firmware.
+  - Download the Sapphire Pro firmware.
   - Format the SD card (maximum 16GB SD Card).
   - Unzip the archive
   - Copy the contents to the SD Card.

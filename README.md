@@ -2,7 +2,7 @@
 
   - TwoTrees Sapphire Pro stock (core XY)
   - Robin nano 1.2
-  - TFT32 "stock"
+  - TFT35 "stock"
 
 # How to flash the Sapphire Pro Firmware?
 

@@ -10,9 +10,9 @@
   - Format the SD card (maximum 16GB SD Card).
   - Unzip the archive
   - Copy the contents to the SD Card.
-         No need to copy "MksWifi.bin" without wifi module
-         Do not copy file "README.md"
-         Do not modify file names
+         * No need to copy "MksWifi.bin" without wifi module
+         * Do not copy file "README.md"
+         * Do not modify file names
   - Plug in the SD card into the printer.
   - Turn on the printer and wait for the firmware to finish flashing.
   - Restart the printer.

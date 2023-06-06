@@ -15,8 +15,7 @@
          * Do not copy file "README.md"
          * Do not modify file names
 
-  - Plug in the SD card into the printer.
-  - Turn on the printer and wait for the firmware to finish flashing.
+  - Insert the SD card into the printer.
+  - Turn power on the printer and wait to finish flashing.
   - Restart the printer.
-  - Print the reset settings file to reset EEPROM.
-  - You can click "setting about" on the touch screen, to view current firmware information
+  - You can click "setting about" on the touch screen, to view current firmware information.
